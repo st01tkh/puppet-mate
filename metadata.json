@@ -1,0 +1,11 @@
+{
+  "name": "tkh-mate",
+  "version": "0.1.0",
+  "author": "st01tkh",
+  "summary": "MATE Desktop",
+  "license": "Apache Version 2.0",
+  "source": "https://github.com/st01tkh/puppet-mate",
+  "project_page": "https://github.com/st01tkh/puppet-mate",
+  "issues_url": "https://github.com/st01tkh/puppet-mate",
+  "description": "Installs MATE Desktop on Ubuntu Trusty (for now)",
+}
