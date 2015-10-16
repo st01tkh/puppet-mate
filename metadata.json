@@ -8,7 +8,6 @@
   "project_page": "https://github.com/st01tkh/puppet-mate",
   "issues_url": "https://github.com/st01tkh/puppet-mate",
   "description": "Installs MATE Desktop on Ubuntu Trusty (for now)",
-  "dependencies": [
-
-  ]
+  "types": [],
+  "dependencies": []
 }
